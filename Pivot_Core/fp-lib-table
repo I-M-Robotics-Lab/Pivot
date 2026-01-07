@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pivot_Core")(type "KiCad")(uri "${KIPRJMOD}/Pivot_Core.pretty")(options "")(descr ""))
+)
